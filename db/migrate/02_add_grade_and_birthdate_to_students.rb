@@ -1,4 +1,4 @@
-class AddColumns
+class AddGradeAndBirthdateToStudents
   def change
     add_column :students, :grade, :integer
   end
